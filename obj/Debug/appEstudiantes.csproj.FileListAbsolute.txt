@@ -1,0 +1,52 @@
+C:\Users\G_Andi\OneDrive - SENATI\Desktop\VISUAL STUDIO CODE AND 2022\C#\appEstudiantes\bin\Debug\appEstudiantes.exe.config
+C:\Users\G_Andi\OneDrive - SENATI\Desktop\VISUAL STUDIO CODE AND 2022\C#\appEstudiantes\bin\Debug\appEstudiantes.exe
+C:\Users\G_Andi\OneDrive - SENATI\Desktop\VISUAL STUDIO CODE AND 2022\C#\appEstudiantes\bin\Debug\appEstudiantes.pdb
+C:\Users\G_Andi\OneDrive - SENATI\Desktop\VISUAL STUDIO CODE AND 2022\C#\appEstudiantes\obj\Debug\appEstudiantes.csproj.AssemblyReference.cache
+C:\Users\G_Andi\OneDrive - SENATI\Desktop\VISUAL STUDIO CODE AND 2022\C#\appEstudiantes\obj\Debug\appEstudiantes.csproj.SuggestedBindingRedirects.cache
+C:\Users\G_Andi\OneDrive - SENATI\Desktop\VISUAL STUDIO CODE AND 2022\C#\appEstudiantes\obj\Debug\appEstudiantes.Form1.resources
+C:\Users\G_Andi\OneDrive - SENATI\Desktop\VISUAL STUDIO CODE AND 2022\C#\appEstudiantes\obj\Debug\appEstudiantes.Properties.Resources.resources
+C:\Users\G_Andi\OneDrive - SENATI\Desktop\VISUAL STUDIO CODE AND 2022\C#\appEstudiantes\obj\Debug\appEstudiantes.csproj.GenerateResource.cache
+C:\Users\G_Andi\OneDrive - SENATI\Desktop\VISUAL STUDIO CODE AND 2022\C#\appEstudiantes\obj\Debug\appEstudiantes.csproj.CoreCompileInputs.cache
+C:\Users\G_Andi\OneDrive - SENATI\Desktop\VISUAL STUDIO CODE AND 2022\C#\appEstudiantes\obj\Debug\appEstudiantes.exe
+C:\Users\G_Andi\OneDrive - SENATI\Desktop\VISUAL STUDIO CODE AND 2022\C#\appEstudiantes\obj\Debug\appEstudiantes.pdb
+C:\Users\G_Andi\OneDrive - SENATI\Desktop\VISUAL STUDIO CODE AND 2022\C#\appEstudiantes\obj\Debug\appEstudiantes.Form2.resources
+C:\Users\G_Andi\OneDrive - SENATI\Desktop\VISUAL STUDIO CODE AND 2022\C#\appEstudiantes\obj\Debug\appEstudiantes.Form3.resources
+C:\Users\G_Andi\OneDrive - SENATI\Desktop\VISUAL STUDIO CODE AND 2022\C#\appEstudiantes 2- copia\bin\Debug\appEstudiantes.exe.config
+C:\Users\G_Andi\OneDrive - SENATI\Desktop\VISUAL STUDIO CODE AND 2022\C#\appEstudiantes 2- copia\bin\Debug\appEstudiantes.exe
+C:\Users\G_Andi\OneDrive - SENATI\Desktop\VISUAL STUDIO CODE AND 2022\C#\appEstudiantes 2- copia\bin\Debug\appEstudiantes.pdb
+C:\Users\G_Andi\OneDrive - SENATI\Desktop\VISUAL STUDIO CODE AND 2022\C#\appEstudiantes 2- copia\obj\Debug\appEstudiantes.csproj.AssemblyReference.cache
+C:\Users\G_Andi\OneDrive - SENATI\Desktop\VISUAL STUDIO CODE AND 2022\C#\appEstudiantes 2- copia\obj\Debug\appEstudiantes.csproj.SuggestedBindingRedirects.cache
+C:\Users\G_Andi\OneDrive - SENATI\Desktop\VISUAL STUDIO CODE AND 2022\C#\appEstudiantes 2- copia\obj\Debug\appEstudiantes.Properties.Resources.resources
+C:\Users\G_Andi\OneDrive - SENATI\Desktop\VISUAL STUDIO CODE AND 2022\C#\appEstudiantes 2- copia\obj\Debug\appEstudiantes.csproj.GenerateResource.cache
+C:\Users\G_Andi\OneDrive - SENATI\Desktop\VISUAL STUDIO CODE AND 2022\C#\appEstudiantes 2- copia\obj\Debug\appEstudiantes.csproj.CoreCompileInputs.cache
+C:\Users\G_Andi\OneDrive - SENATI\Desktop\VISUAL STUDIO CODE AND 2022\C#\appEstudiantes 2- copia\obj\Debug\appEstudiantes.exe
+C:\Users\G_Andi\OneDrive - SENATI\Desktop\VISUAL STUDIO CODE AND 2022\C#\appEstudiantes 2- copia\obj\Debug\appEstudiantes.pdb
+C:\Users\G_Andi\OneDrive - SENATI\Desktop\VISUAL STUDIO CODE AND 2022\C#\appEstudiantes 2- copia\obj\Debug\appEstudiantes.frmEstudiantes.resources
+C:\Users\G_Andi\OneDrive - SENATI\Desktop\VISUAL STUDIO CODE AND 2022\C#\appEstudiantes 2- copia\obj\Debug\appEstudiantes.frmCursos.resources
+C:\Users\G_Andi\OneDrive - SENATI\Desktop\VISUAL STUDIO CODE AND 2022\C#\appEstudiantes 2- copia\obj\Debug\appEstudiantes.frmPrincipal.resources
+C:\Users\G_Andi\OneDrive - SENATI\Desktop\VISUAL STUDIO CODE AND 2022\C#\Len - copia\bin\Debug\appEstudiantes.exe.config
+C:\Users\G_Andi\OneDrive - SENATI\Desktop\VISUAL STUDIO CODE AND 2022\C#\Len - copia\bin\Debug\appEstudiantes.exe
+C:\Users\G_Andi\OneDrive - SENATI\Desktop\VISUAL STUDIO CODE AND 2022\C#\Len - copia\bin\Debug\appEstudiantes.pdb
+C:\Users\G_Andi\OneDrive - SENATI\Desktop\VISUAL STUDIO CODE AND 2022\C#\Len - copia\obj\Debug\appEstudiantes.csproj.AssemblyReference.cache
+C:\Users\G_Andi\OneDrive - SENATI\Desktop\VISUAL STUDIO CODE AND 2022\C#\Len - copia\obj\Debug\appEstudiantes.csproj.SuggestedBindingRedirects.cache
+C:\Users\G_Andi\OneDrive - SENATI\Desktop\VISUAL STUDIO CODE AND 2022\C#\Len - copia\obj\Debug\appEstudiantes.frmPrincipal.resources
+C:\Users\G_Andi\OneDrive - SENATI\Desktop\VISUAL STUDIO CODE AND 2022\C#\Len - copia\obj\Debug\appEstudiantes.frmEstudiantes.resources
+C:\Users\G_Andi\OneDrive - SENATI\Desktop\VISUAL STUDIO CODE AND 2022\C#\Len - copia\obj\Debug\appEstudiantes.frmCursos.resources
+C:\Users\G_Andi\OneDrive - SENATI\Desktop\VISUAL STUDIO CODE AND 2022\C#\Len - copia\obj\Debug\appEstudiantes.Properties.Resources.resources
+C:\Users\G_Andi\OneDrive - SENATI\Desktop\VISUAL STUDIO CODE AND 2022\C#\Len - copia\obj\Debug\appEstudiantes.csproj.GenerateResource.cache
+C:\Users\G_Andi\OneDrive - SENATI\Desktop\VISUAL STUDIO CODE AND 2022\C#\Len - copia\obj\Debug\appEstudiantes.csproj.CoreCompileInputs.cache
+C:\Users\G_Andi\OneDrive - SENATI\Desktop\VISUAL STUDIO CODE AND 2022\C#\Len - copia\obj\Debug\appEstudiantes.exe
+C:\Users\G_Andi\OneDrive - SENATI\Desktop\VISUAL STUDIO CODE AND 2022\C#\Len - copia\obj\Debug\appEstudiantes.pdb
+C:\Users\G_Andi\OneDrive - SENATI\Desktop\VISUAL STUDIO CODE AND 2022\C#\LenguajeDeProgramacionIII-TR1\obj\Debug\appEstudiantes.csproj.AssemblyReference.cache
+C:\Users\G_Andi\OneDrive - SENATI\Desktop\VISUAL STUDIO CODE AND 2022\C#\LenguajeDeProgramacionIII-TR1\obj\Debug\appEstudiantes.csproj.SuggestedBindingRedirects.cache
+C:\Users\G_Andi\OneDrive - SENATI\Desktop\VISUAL STUDIO CODE AND 2022\C#\LenguajeDeProgramacionIII-TR1\obj\Debug\appEstudiantes.frmPrincipal.resources
+C:\Users\G_Andi\OneDrive - SENATI\Desktop\VISUAL STUDIO CODE AND 2022\C#\LenguajeDeProgramacionIII-TR1\obj\Debug\appEstudiantes.frmEstudiantes.resources
+C:\Users\G_Andi\OneDrive - SENATI\Desktop\VISUAL STUDIO CODE AND 2022\C#\LenguajeDeProgramacionIII-TR1\obj\Debug\appEstudiantes.frmCursos.resources
+C:\Users\G_Andi\OneDrive - SENATI\Desktop\VISUAL STUDIO CODE AND 2022\C#\LenguajeDeProgramacionIII-TR1\obj\Debug\appEstudiantes.Properties.Resources.resources
+C:\Users\G_Andi\OneDrive - SENATI\Desktop\VISUAL STUDIO CODE AND 2022\C#\LenguajeDeProgramacionIII-TR1\obj\Debug\appEstudiantes.csproj.GenerateResource.cache
+C:\Users\G_Andi\OneDrive - SENATI\Desktop\VISUAL STUDIO CODE AND 2022\C#\LenguajeDeProgramacionIII-TR1\obj\Debug\appEstudiantes.csproj.CoreCompileInputs.cache
+C:\Users\G_Andi\OneDrive - SENATI\Desktop\VISUAL STUDIO CODE AND 2022\C#\LenguajeDeProgramacionIII-TR1\obj\Debug\appEstudiantes.exe
+C:\Users\G_Andi\OneDrive - SENATI\Desktop\VISUAL STUDIO CODE AND 2022\C#\LenguajeDeProgramacionIII-TR1\obj\Debug\appEstudiantes.pdb
+C:\Users\G_Andi\OneDrive - SENATI\Desktop\VISUAL STUDIO CODE AND 2022\C#\LenguajeDeProgramacionIII-TR1\bin\Debug\appEstudiantes.exe.config
+C:\Users\G_Andi\OneDrive - SENATI\Desktop\VISUAL STUDIO CODE AND 2022\C#\LenguajeDeProgramacionIII-TR1\bin\Debug\appEstudiantes.exe
+C:\Users\G_Andi\OneDrive - SENATI\Desktop\VISUAL STUDIO CODE AND 2022\C#\LenguajeDeProgramacionIII-TR1\bin\Debug\appEstudiantes.pdb
